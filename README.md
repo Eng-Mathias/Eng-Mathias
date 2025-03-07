@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eng-Mathias/Eng-Mathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi Visitor 👋 I'm Matheus Henrique, Welcome to my profile.
 
-Here are some ideas to get you started:
+I am a Software Engineering student with a background in programming and a strong interest in Fullstack development. My journey in I.T. has provided me with a solid foundation, and I am constantly seeking to learn and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥🔥 Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,java,c,git,vscode,mysql,postgres,debian&theme=dark&perline=7)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true))
+
+## 📫 Contato
+Você pode me encontrar nas seguintes redes sociais:
+
+ <div> 
+  <a href="https://www.linkedin.com/[seu link do linkedin]" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>
+Ou me enviar um email para <a href = "mailto: [seu email]" >[seu email]<a/>.
+
+</div>
+
+
+ <br>
+ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
+</div>
