@@ -8,7 +8,7 @@ I am a Software Engineering student with a background in programming and a stron
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,java,c,git,vscode,mysql,postgres,debian&theme=dark&perline=7)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
 
 ## 📫 Contato
 Você pode me encontrar nas seguintes redes sociais:
