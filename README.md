@@ -23,3 +23,7 @@ Ou me enviar um email para <a href = "mailto: matheushf003@gmail.com"> matheushf
  <br>
  Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
 </div>
+
+ <br>
+ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
+</div>
