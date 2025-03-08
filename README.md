@@ -15,9 +15,8 @@ Você pode me encontrar nas seguintes redes sociais:
 
  <div> 
 Ou me enviar um email para <a href = "mailto: matheushf003@gmail.com"> matheushf003@gmail.com <a/>.
-  <br>
-  <a href="https://www.linkedin.com/in/engmatheushenriique/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br><br>
+  <a href="https://www.linkedin.com/in/engmatheushenriique/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
