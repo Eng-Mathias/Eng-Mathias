@@ -12,7 +12,7 @@ I am a Software Engineering student with a background in programming and a stron
 
 ## 💻 Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eng-mathias&theme=merko&border_radius=12&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&border=82EB86)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eng-mathias&theme=merko&border_radius=12&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## 📫 Contato
 Você pode me encontrar nas seguintes redes sociais:
