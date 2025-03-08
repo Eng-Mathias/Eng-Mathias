@@ -12,6 +12,9 @@ I am a Software Engineering student with a background in programming and a stron
 
 ## 💻 Stats:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-mathias&count_private=true&theme=merko&show_icons=true&hide_title=true&layout=compact&hide=contribs)
+<br></br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=eng-mathias&theme=merko&border_radius=12&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## 📫 Contato
