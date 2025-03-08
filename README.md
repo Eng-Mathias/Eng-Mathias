@@ -8,11 +8,11 @@ I am a Software Engineering student with a background in programming and a stron
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,java,c,git,vscode,mysql,postgres,debian&theme=dark&perline=7)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=merko&show_icons=true&border_radius=12&border=82EB86)
 
 ## Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mathias&theme=merko&border_radius=8&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eng-mathias&theme=merko&border_radius=12&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&border=82EB86)](https://git.io/streak-stats)
 
 ## 📫 Contato
 Você pode me encontrar nas seguintes redes sociais:
