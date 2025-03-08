@@ -10,19 +10,20 @@ I am a Software Engineering student with a background in programming and a stron
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
 
+## Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mathias&theme=merko&border_radius=8&short_numbers=true)](https://git.io/streak-stats)
+
 ## 📫 Contato
 Você pode me encontrar nas seguintes redes sociais:
 
  <div> 
 Ou me enviar um email para <a href = "mailto: matheushf003@gmail.com"> matheushf003@gmail.com <a/>.
-  <br><br>
+  <br></br>
   <a href="https://www.linkedin.com/in/engmatheushenriique/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
 
-
- <br>
- Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
-</div>
 
  <br>
  Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
