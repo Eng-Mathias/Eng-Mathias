@@ -6,7 +6,7 @@ I am a Software Engineering student with a background in programming and a stron
 
 ## 🔥🔥 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,java,git,vscode,mysql,debian&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,java,git,mysql,&theme=dark&perline=7)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=merko&show_icons=true&border_radius=12)
 
