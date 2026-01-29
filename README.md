@@ -8,11 +8,11 @@ I am a Software Engineering student with a background in programming and a stron
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,java,mysql,&theme=dark&perline=7)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=merko&show_icons=true&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mathias&layout=compact&langs_count=6&count_private=true&theme=merko&show_icons=true&border_radius=12)
 
 ## 💻 Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-mathias&count_private=true&theme=merko&show_icons=true&hide_title=true&layout=compact&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-mathias&count_private=true&theme=merko&show_icons=true&hide_title=true&layout=compact&hide=contribs)
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eng-mathias&theme=merko&border_radius=12&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
